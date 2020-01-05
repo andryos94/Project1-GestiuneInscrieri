@@ -1,0 +1,44 @@
+help	
+add 1 Renca Mircea renca.mircea@gmail.com 0722222222
+help
+guests
+waitlist
+guests_no
+waitlist_no
+subscribe_no
+available
+remove 2 renca.mircea@gmail.com
+search a
+available
+guests
+waitlist
+guests_no
+waitlist_no
+subscribe_no
+add 1 Darius Anca darius.anca@yahoo.com 0711
+add 2 eliva.bogdan@gmail.com Eliva Bogdan eliva.bogdan@gmail.com 0632
+add 3 0673123 Vira Eduard vira.eduard@gmail.com 0673123
+add 1 Eliva Bogdan Eliva Bogdan eliva.bogdan@gmail.com 0632415217
+waitlist_no
+guests
+waitlist
+guests_no
+update 3 0632 1 Elvira
+guests
+add 1 Pop Dan Pop Dan dan.pop@outlook.com 056392
+add 2 calin.c@aol.com Bob Calin calin.c@aol.com 057311123
+waitlist
+guests
+available
+update 1 Bob Calin 1 BOB
+remove 3 056392
+waitlist
+remove 2 0632
+remove 3 0632
+guests
+waitlist
+add 2 marius.dinus@gmail.com Dinus Marius marius.dinus@gmail.com 0812306
+waitlist
+guests
+search Ar
+quit
